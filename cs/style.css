@@ -96,6 +96,8 @@ img{
 .client-section{
     text-align: center;
     padding: 100px 0;
+    background-image: url(../images/footer-bg.png);
+    height: 700px;
 }
 .btn {
 	background-image: linear-gradient(45deg,#EC5195, #ED4B71);
