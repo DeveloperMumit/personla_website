@@ -115,3 +115,7 @@ img{
 .client-section h4{
     color: #7E7E7E;
 }
+footer p{
+    text-align: center;
+    font-size: 20px;
+}
