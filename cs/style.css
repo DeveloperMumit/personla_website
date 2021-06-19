@@ -9,7 +9,7 @@ body{
     color: #EC4C7A;
 }
 .wrapper{
-    width: 1140px;
+    width: 1280px;
     margin: 0 auto;
 }
 h1{
@@ -32,6 +32,7 @@ p{
 .header-section{
     background-image: url(../images/header-bg.png);
     overflow: hidden;
+    margin-bottom: 80px;
 }
 .header-top{
     margin-top: 180px;
@@ -51,4 +52,41 @@ p{
 }
 img{
     width: 100%;
+}
+
+/* Biography-section */
+.biography-section {
+	background-image: url(../images/biography-bg.png);
+	background-repeat: no-repeat;
+	height: 830px;
+	padding: 50px 0;
+}
+.biography-top{
+   
+}
+.biography-left{
+    padding: 0 20px;
+}
+.biography-right {
+    padding-left: 100px;
+    padding-top: 130px;
+}
+.biography-right p{
+    margin-bottom: 40px;
+    line-height: 25px;
+}
+.my-latest-work{
+    background-image: url(../images/latest-work-bg.png); 
+    height: 600px;   
+}
+.my-latest-work{
+    text-align: center;
+}
+.my-latest-work h2{
+	margin: 80px 0;
+}
+.latestproject-img {
+	width: 31%;
+	float: left;
+	margin-left: 29px;
 }
